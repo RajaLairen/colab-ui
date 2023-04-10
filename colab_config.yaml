@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Name: cloab_ui
+Description: Mimiknig Google colab ui
+Link: readme.md
+Main: colab_config.js
+Compatibility: 3.x, 4.x, 5.x

@@ -1,0 +1,27 @@
+.code_cell{
+    border: none;
+    
+}
+
+.input_area{
+    border: none;
+}
+
+.cell.code_cell.rendered.selected{
+    border: none;
+    box-shadow: 1px 2px 8px gray;
+    margin-left: 10px;
+    transition: 0.5s;
+}
+
+.cell.code_cell.unrendered.selected{
+    border: none;
+    box-shadow: 1px 2px 8px gray;
+    margin-left: 10px;
+    transition: 0.5s;
+}
+
+.cell:hover{
+    margin-left: 10px;
+    transition: 0.5s;
+}
